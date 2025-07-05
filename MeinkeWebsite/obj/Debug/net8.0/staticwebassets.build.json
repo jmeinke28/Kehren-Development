@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kvFYDXRjGniOOZ7t5k++EHUHETd2QvX22NBtfM+g6ds=",
+  "Hash": "A2hPvFHQYXUcMnm78v/yxDyI0032toFDEJg6FZ7B2XM=",
   "Source": "MeinkeWebsite",
   "BasePath": "_content/MeinkeWebsite",
   "Mode": "Default",
@@ -357,6 +357,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\resized_image_7.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\jalen\\OneDrive - Western Wisconsin Technical College\\Desktop\\Kehren Development\\MeinkeWebsite\\wwwroot\\images\\resized_image_8.jpg",
+      "SourceId": "MeinkeWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jalen\\OneDrive - Western Wisconsin Technical College\\Desktop\\Kehren Development\\MeinkeWebsite\\wwwroot\\",
+      "BasePath": "_content/MeinkeWebsite",
+      "RelativePath": "images/resized_image_8.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\resized_image_8.jpg"
     },
     {
       "Identity": "C:\\Users\\jalen\\OneDrive - Western Wisconsin Technical College\\Desktop\\Kehren Development\\MeinkeWebsite\\wwwroot\\js\\site.js",
