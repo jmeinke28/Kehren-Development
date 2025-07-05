@@ -5,7 +5,6 @@ This is a simple website made with ASP.NET Core MVC. It was built to show web de
 ## Features
 
 - ASP.NET Core MVC structure
-- Clean and mobile-friendly design
 - Styled with Bootstrap 5
 
 ## Technologies Used
@@ -18,8 +17,10 @@ This is a simple website made with ASP.NET Core MVC. It was built to show web de
 ## Pages
 
 - **Home** – Welcome section, site info, and tech used
+- **Cards** – Basic display using bootstrap cards
+- **Carousel** – Basic carousel with several images
 - **Contact** – Simple contact page
-- **Error** – Basic error page
+
 
 ## How to Run
 
