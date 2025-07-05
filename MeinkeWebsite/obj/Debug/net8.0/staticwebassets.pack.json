@@ -1,10 +1,6 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\jalen\\OneDrive - Western Wisconsin Technical College\\Desktop\\Kehren Development\\MeinkeWebsite\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MeinkeWebsite.bundle.scp.css",
-      "PackagePath": "staticwebassets\\MeinkeWebsite.bundle.scp.css"
-    },
-    {
       "Id": "C:\\Users\\jalen\\OneDrive - Western Wisconsin Technical College\\Desktop\\Kehren Development\\MeinkeWebsite\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -13,56 +9,68 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\jalen\\OneDrive - Western Wisconsin Technical College\\Desktop\\Kehren Development\\MeinkeWebsite\\wwwroot\\images\\3d-rendering-abstract-building.jpg",
-      "PackagePath": "staticwebassets\\images\\3d-rendering-abstract-building.jpg"
+      "Id": "C:\\Users\\jalen\\OneDrive - Western Wisconsin Technical College\\Desktop\\Kehren Development\\MeinkeWebsite\\wwwroot\\images\\ATV.jpg",
+      "PackagePath": "staticwebassets\\images\\ATV.jpg"
     },
     {
-      "Id": "C:\\Users\\jalen\\OneDrive - Western Wisconsin Technical College\\Desktop\\Kehren Development\\MeinkeWebsite\\wwwroot\\images\\3d-rendering-square-shape-nature.jpg",
-      "PackagePath": "staticwebassets\\images\\3d-rendering-square-shape-nature.jpg"
+      "Id": "C:\\Users\\jalen\\OneDrive - Western Wisconsin Technical College\\Desktop\\Kehren Development\\MeinkeWebsite\\wwwroot\\images\\ATVImage.jpg",
+      "PackagePath": "staticwebassets\\images\\ATVImage.jpg"
     },
     {
-      "Id": "C:\\Users\\jalen\\OneDrive - Western Wisconsin Technical College\\Desktop\\Kehren Development\\MeinkeWebsite\\wwwroot\\images\\framing-landscape-while-traveling.jpg",
-      "PackagePath": "staticwebassets\\images\\framing-landscape-while-traveling.jpg"
+      "Id": "C:\\Users\\jalen\\OneDrive - Western Wisconsin Technical College\\Desktop\\Kehren Development\\MeinkeWebsite\\wwwroot\\images\\ATVJump.jpg",
+      "PackagePath": "staticwebassets\\images\\ATVJump.jpg"
     },
     {
-      "Id": "C:\\Users\\jalen\\OneDrive - Western Wisconsin Technical College\\Desktop\\Kehren Development\\MeinkeWebsite\\wwwroot\\images\\istockphoto-1368228669-612x612_resized.jpg",
-      "PackagePath": "staticwebassets\\images\\istockphoto-1368228669-612x612_resized.jpg"
+      "Id": "C:\\Users\\jalen\\OneDrive - Western Wisconsin Technical College\\Desktop\\Kehren Development\\MeinkeWebsite\\wwwroot\\images\\ATVLean.jpg",
+      "PackagePath": "staticwebassets\\images\\ATVLean.jpg"
     },
     {
-      "Id": "C:\\Users\\jalen\\OneDrive - Western Wisconsin Technical College\\Desktop\\Kehren Development\\MeinkeWebsite\\wwwroot\\images\\istockphoto-2202015764-612x612_resized.jpg",
-      "PackagePath": "staticwebassets\\images\\istockphoto-2202015764-612x612_resized.jpg"
+      "Id": "C:\\Users\\jalen\\OneDrive - Western Wisconsin Technical College\\Desktop\\Kehren Development\\MeinkeWebsite\\wwwroot\\images\\ATVMotocrossRace.jpg",
+      "PackagePath": "staticwebassets\\images\\ATVMotocrossRace.jpg"
     },
     {
-      "Id": "C:\\Users\\jalen\\OneDrive - Western Wisconsin Technical College\\Desktop\\Kehren Development\\MeinkeWebsite\\wwwroot\\images\\istockphoto-2202015769-612x612_resized.jpg",
-      "PackagePath": "staticwebassets\\images\\istockphoto-2202015769-612x612_resized.jpg"
+      "Id": "C:\\Users\\jalen\\OneDrive - Western Wisconsin Technical College\\Desktop\\Kehren Development\\MeinkeWebsite\\wwwroot\\images\\ATVStart.jpg",
+      "PackagePath": "staticwebassets\\images\\ATVStart.jpg"
     },
     {
-      "Id": "C:\\Users\\jalen\\OneDrive - Western Wisconsin Technical College\\Desktop\\Kehren Development\\MeinkeWebsite\\wwwroot\\images\\istockphoto-2202016019-612x612_resized.jpg",
-      "PackagePath": "staticwebassets\\images\\istockphoto-2202016019-612x612_resized.jpg"
+      "Id": "C:\\Users\\jalen\\OneDrive - Western Wisconsin Technical College\\Desktop\\Kehren Development\\MeinkeWebsite\\wwwroot\\images\\Fourwheeler.jpg",
+      "PackagePath": "staticwebassets\\images\\Fourwheeler.jpg"
     },
     {
-      "Id": "C:\\Users\\jalen\\OneDrive - Western Wisconsin Technical College\\Desktop\\Kehren Development\\MeinkeWebsite\\wwwroot\\images\\istockphoto-467686166-612x612_resized.jpg",
-      "PackagePath": "staticwebassets\\images\\istockphoto-467686166-612x612_resized.jpg"
+      "Id": "C:\\Users\\jalen\\OneDrive - Western Wisconsin Technical College\\Desktop\\Kehren Development\\MeinkeWebsite\\wwwroot\\images\\FourwheelerDrifting.jpg",
+      "PackagePath": "staticwebassets\\images\\FourwheelerDrifting.jpg"
     },
     {
-      "Id": "C:\\Users\\jalen\\OneDrive - Western Wisconsin Technical College\\Desktop\\Kehren Development\\MeinkeWebsite\\wwwroot\\images\\istockphoto-480990051-612x612_resized.jpg",
-      "PackagePath": "staticwebassets\\images\\istockphoto-480990051-612x612_resized.jpg"
+      "Id": "C:\\Users\\jalen\\OneDrive - Western Wisconsin Technical College\\Desktop\\Kehren Development\\MeinkeWebsite\\wwwroot\\images\\Motocross.jpg",
+      "PackagePath": "staticwebassets\\images\\Motocross.jpg"
     },
     {
-      "Id": "C:\\Users\\jalen\\OneDrive - Western Wisconsin Technical College\\Desktop\\Kehren Development\\MeinkeWebsite\\wwwroot\\images\\istockphoto-488523067-612x612_resized.jpg",
-      "PackagePath": "staticwebassets\\images\\istockphoto-488523067-612x612_resized.jpg"
+      "Id": "C:\\Users\\jalen\\OneDrive - Western Wisconsin Technical College\\Desktop\\Kehren Development\\MeinkeWebsite\\wwwroot\\images\\resized_image_1.jpg",
+      "PackagePath": "staticwebassets\\images\\resized_image_1.jpg"
     },
     {
-      "Id": "C:\\Users\\jalen\\OneDrive - Western Wisconsin Technical College\\Desktop\\Kehren Development\\MeinkeWebsite\\wwwroot\\images\\istockphoto-490424284-612x612_resized.jpg",
-      "PackagePath": "staticwebassets\\images\\istockphoto-490424284-612x612_resized.jpg"
+      "Id": "C:\\Users\\jalen\\OneDrive - Western Wisconsin Technical College\\Desktop\\Kehren Development\\MeinkeWebsite\\wwwroot\\images\\resized_image_2.jpg",
+      "PackagePath": "staticwebassets\\images\\resized_image_2.jpg"
     },
     {
-      "Id": "C:\\Users\\jalen\\OneDrive - Western Wisconsin Technical College\\Desktop\\Kehren Development\\MeinkeWebsite\\wwwroot\\images\\istockphoto-498392159-612x612_resized.jpg",
-      "PackagePath": "staticwebassets\\images\\istockphoto-498392159-612x612_resized.jpg"
+      "Id": "C:\\Users\\jalen\\OneDrive - Western Wisconsin Technical College\\Desktop\\Kehren Development\\MeinkeWebsite\\wwwroot\\images\\resized_image_3.jpg",
+      "PackagePath": "staticwebassets\\images\\resized_image_3.jpg"
     },
     {
-      "Id": "C:\\Users\\jalen\\OneDrive - Western Wisconsin Technical College\\Desktop\\Kehren Development\\MeinkeWebsite\\wwwroot\\images\\surreal-geometric-shapes-barren-desert.jpg",
-      "PackagePath": "staticwebassets\\images\\surreal-geometric-shapes-barren-desert.jpg"
+      "Id": "C:\\Users\\jalen\\OneDrive - Western Wisconsin Technical College\\Desktop\\Kehren Development\\MeinkeWebsite\\wwwroot\\images\\resized_image_4.jpg",
+      "PackagePath": "staticwebassets\\images\\resized_image_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jalen\\OneDrive - Western Wisconsin Technical College\\Desktop\\Kehren Development\\MeinkeWebsite\\wwwroot\\images\\resized_image_5.jpg",
+      "PackagePath": "staticwebassets\\images\\resized_image_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jalen\\OneDrive - Western Wisconsin Technical College\\Desktop\\Kehren Development\\MeinkeWebsite\\wwwroot\\images\\resized_image_6.jpg",
+      "PackagePath": "staticwebassets\\images\\resized_image_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jalen\\OneDrive - Western Wisconsin Technical College\\Desktop\\Kehren Development\\MeinkeWebsite\\wwwroot\\images\\resized_image_7.jpg",
+      "PackagePath": "staticwebassets\\images\\resized_image_7.jpg"
     },
     {
       "Id": "C:\\Users\\jalen\\OneDrive - Western Wisconsin Technical College\\Desktop\\Kehren Development\\MeinkeWebsite\\wwwroot\\js\\site.js",

@@ -21,9 +21,7 @@ C:\Users\jalen\OneDrive - Western Wisconsin Technical College\Desktop\Kehren Dev
 C:\Users\jalen\OneDrive - Western Wisconsin Technical College\Desktop\Kehren Development\MeinkeWebsite\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MeinkeWebsite.props
 C:\Users\jalen\OneDrive - Western Wisconsin Technical College\Desktop\Kehren Development\MeinkeWebsite\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MeinkeWebsite.props
 C:\Users\jalen\OneDrive - Western Wisconsin Technical College\Desktop\Kehren Development\MeinkeWebsite\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\jalen\OneDrive - Western Wisconsin Technical College\Desktop\Kehren Development\MeinkeWebsite\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\jalen\OneDrive - Western Wisconsin Technical College\Desktop\Kehren Development\MeinkeWebsite\obj\Debug\net8.0\scopedcss\bundle\MeinkeWebsite.styles.css
-C:\Users\jalen\OneDrive - Western Wisconsin Technical College\Desktop\Kehren Development\MeinkeWebsite\obj\Debug\net8.0\scopedcss\projectbundle\MeinkeWebsite.bundle.scp.css
 C:\Users\jalen\OneDrive - Western Wisconsin Technical College\Desktop\Kehren Development\MeinkeWebsite\obj\Debug\net8.0\MeinkeWebsite.dll
 C:\Users\jalen\OneDrive - Western Wisconsin Technical College\Desktop\Kehren Development\MeinkeWebsite\obj\Debug\net8.0\refint\MeinkeWebsite.dll
 C:\Users\jalen\OneDrive - Western Wisconsin Technical College\Desktop\Kehren Development\MeinkeWebsite\obj\Debug\net8.0\MeinkeWebsite.pdb
