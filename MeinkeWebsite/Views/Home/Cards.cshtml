@@ -1,0 +1,36 @@
+@{
+    ViewData["Title"] = "Cards";
+
+    var cards = new[]
+    {
+        new { Title = "Four Wheeler Drifting", Image = "FourWheelerDrifting.jpg", Description = "This race tests riders' ability to control their machines on tight, dusty corners while keeping high speed." },
+        new { Title = "ATV Motocross Race", Image = "ATVMotocrossRace.jpg", Description = "One of the biggest ATV motocross events, featuring multiple heats and intense competition for the championship." },
+        new { Title = "Tuned ATVs", Image = "ATVImage.jpg", Description = "Racers use specially tuned ATVs designed to handle rough terrain and jumps throughout the course." },
+        new { Title = "Challenging Track", Image = "Motocross.jpg", Description = "A challenging motocross track with muddy sections and sharp turns, pushing riders to their limits." },
+        new { Title = "Starting Grid", Image = "ATV.jpg", Description = "The starting grid is packed with riders eager to get the best position when the gate drops." },
+        new { Title = "First Place", Image = "Fourwheeler.jpg", Description = "Riders blast off the line, aiming for a quick lead in this fast-paced four-wheeler race." },
+        new { Title = "Race Start", Image = "ATVStart.jpg", Description = "The roar of engines signals the start of the race, with competitors jockeying for position." },
+        new { Title = "Corner Lean", Image = "ATVLean.jpg", Description = "Leaning into corners is key in this race, balancing speed with control on rough trails." },
+        new { Title = "Big Jump", Image = "ATVJump.jpg", Description = "Big jumps like this test a rider's skill and their machine’s suspension on the course." }
+    };
+}
+
+<h1 class="text-center mb-5 fw-bold">ATV Racing Gallery</h1>
+
+<div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-4">
+    @foreach (var card in cards)
+    {
+        <div class="col">
+            <div class="card h-100 border-0 rounded-3 shadow transition transform hover-shadow" style="box-shadow: 0 0.75rem 1.5rem rgba(0,0,0,0.2);">
+                <img src="~/images/@card.Image" class="card-img-top" alt="@card.Title" style="height: 200px; object-fit: cover;">
+                <div class="card-body d-flex flex-column">
+                    <h5 class="card-title fw-semibold">@card.Title</h5>
+                    <p class="card-text text-muted flex-grow-1">@card.Description</p>
+                    <a href="https://atvmotocross.com/" target="_blank" class="btn btn-outline-primary mt-3">
+                        Learn More
+                    </a>
+                </div>
+            </div>
+        </div>
+    }
+</div>
