@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Z+G+8E9qdepZE91x3ZFDizaso/C3dUuHUGxDKh9cB+8=",
+  "Hash": "z0vJfb7MNThxjCaOWz99k4ZRyuuxiiiE8Wm6UM6U724=",
   "Source": "MeinkeWebsite",
   "BasePath": "_content/MeinkeWebsite",
   "Mode": "Default",
@@ -148,6 +148,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\ATVStart.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\jalen\\OneDrive - Western Wisconsin Technical College\\Desktop\\Kehren Development\\MeinkeWebsite\\wwwroot\\images\\computer_science_img.jpg",
+      "SourceId": "MeinkeWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jalen\\OneDrive - Western Wisconsin Technical College\\Desktop\\Kehren Development\\MeinkeWebsite\\wwwroot\\",
+      "BasePath": "_content/MeinkeWebsite",
+      "RelativePath": "images/computer_science_img.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\computer_science_img.jpg"
     },
     {
       "Identity": "C:\\Users\\jalen\\OneDrive - Western Wisconsin Technical College\\Desktop\\Kehren Development\\MeinkeWebsite\\wwwroot\\images\\favicon.png",

@@ -41,6 +41,10 @@
       "PackagePath": "staticwebassets\\images\\Motocross.jpg"
     },
     {
+      "Id": "C:\\Users\\jalen\\OneDrive - Western Wisconsin Technical College\\Desktop\\Kehren Development\\MeinkeWebsite\\wwwroot\\images\\computer_science_img.jpg",
+      "PackagePath": "staticwebassets\\images\\computer_science_img.jpg"
+    },
+    {
       "Id": "C:\\Users\\jalen\\OneDrive - Western Wisconsin Technical College\\Desktop\\Kehren Development\\MeinkeWebsite\\wwwroot\\images\\favicon.png",
       "PackagePath": "staticwebassets\\images\\favicon.png"
     },
