@@ -2,55 +2,61 @@
     ViewData["Title"] = "Home - Kehren Development";
 }
 
-<section class="py-5 bg-light">
-    <div class="container">
+<div class="shadow-lg rounded-4 overflow-hidden" style="box-shadow: 0 0 50px rgba(0, 0, 0, 0.85);">
 
-        <div class="text-center mb-5">
-            <h1 class="fw-bold display-4">Hi, I'm Jalen Meinke.</h1>
-            <p class="lead fs-4">Crafting clean web applications with ASP.NET Core MVC and C#.</p>
-            <p class="text-muted fst-italic fs-6">
-                This project was created as part of a job application for Kehren Development.
-            </p>
+    <section class="py-5 position-relative" style="background: url('/images/computer_science_img.jpg') no-repeat center center; background-size: cover; background-attachment: fixed;">
+        <div class="position-absolute top-0 start-0 w-100 h-100" style="background-color: rgba(0, 0, 0, 0.5); z-index: 1;"></div>
+        <div class="container position-relative" style="z-index: 2;">
+            <div class="text-center mb-5">
+                <h4 class="fw-semibold text-white" style="text-shadow: 2px 2px 6px rgba(0, 0, 0, 1);">
+                    ASP.NET Core MVC Web Application
+                </h4>
+                <p class="lead fs-4 text-white" style="text-shadow: 1px 1px 6px rgba(0, 0, 0, 0.9);">
+                    Developed using C#, Bootstrap and HTML.
+                </p>
+                <p class="text-white fs-6 fst-italic" style="text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.9);">
+                    Created by Jalen Meinke for Kehren Development.
+                </p>
+            </div>
         </div>
+    </section>
 
-        <h2 class="text-center fw-bold mb-5 display-5" style="letter-spacing: 0.05em;">
-            Languages I Used For This Project
-        </h2>
-
-        <div class="row justify-content-center g-4">
-
-            <div class="col-md-3 col-sm-6">
-                <div class="text-center bg-white p-5 rounded-4 shadow-lg h-100">
-                    <i class="bi bi-code-slash display-3 text-primary mb-4"></i>
-                    <h5 class="fw-bold mb-3">ASP.NET Core</h5>
-                    <p class="text-muted fs-6">Building dynamic web apps with a powerful and flexible framework.</p>
+    <section class="py-5 bg-light">
+        <div class="container">
+            <h2 class="text-center fw-bold mb-5 display-6 text-uppercase">
+                Languages & Tools I Used
+            </h2>
+            <div class="row text-center g-4 justify-content-center">
+                <div class="col-md-3 col-sm-6">
+                    <div class="bg-white p-4 rounded-4 shadow-sm h-100">
+                        <i class="bi bi-code-slash display-5 text-primary mb-2"></i>
+                        <h6 class="fw-bold">ASP.NET Core</h6>
+                        <p class="text-muted small">Used to build fast and strong websites.</p>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <div class="bg-white p-4 rounded-4 shadow-sm h-100">
+                        <i class="bi bi-filetype-html display-5 text-danger mb-2"></i>
+                        <h6 class="fw-bold">HTML</h6>
+                        <p class="text-muted small">Gives the site its base and layout.</p>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <div class="bg-white p-4 rounded-4 shadow-sm h-100">
+                        <i class="bi bi-bootstrap-fill display-5 mb-2" style="color: #7952b3;"></i>
+                        <h6 class="fw-bold">Bootstrap 5</h6>
+                        <p class="text-muted small">Helps make the site look clean and work well on all screens.</p>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <div class="bg-white p-4 rounded-4 shadow-sm h-100">
+                        <i class="bi bi-filetype-cs display-5 text-dark mb-2"></i>
+                        <h6 class="fw-bold">C#</h6>
+                        <p class="text-muted small">Handles the logic and work behind the scenes.</p>
+                    </div>
                 </div>
             </div>
-
-            <div class="col-md-3 col-sm-6">
-                <div class="text-center bg-white p-5 rounded-4 shadow-lg h-100">
-                    <i class="bi bi-filetype-html display-3 text-danger mb-4"></i>
-                    <h5 class="fw-bold mb-3">HTML</h5>
-                    <p class="text-muted fs-6">Structuring content with modern, semantic HTML elements.</p>
-                </div>
-            </div>
-
-            <div class="col-md-3 col-sm-6">
-                <div class="text-center bg-white p-5 rounded-4 shadow-lg h-100">
-                    <i class="bi bi-bootstrap-fill display-3" style="color: #7952b3;" aria-hidden="true"></i>
-                    <h5 class="fw-bold mb-3">Bootstrap</h5>
-                    <p class="text-muted fs-6">Designing responsive and visually appealing layouts.</p>
-                </div>
-            </div>
-
-            <div class="col-md-3 col-sm-6">
-                <div class="text-center bg-white p-5 rounded-4 shadow-lg h-100">
-                    <i class="bi bi-code-slash display-3 text-dark mb-4"></i>
-                    <h5 class="fw-bold mb-3">C#</h5>
-                    <p class="text-muted fs-6">Bringing interactivity and business logic to the backend.</p>
-                </div>
-            </div>
-
         </div>
-    </div>
-</section>
+    </section>
+
+</div>
