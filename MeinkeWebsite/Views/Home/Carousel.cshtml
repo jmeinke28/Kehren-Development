@@ -1,0 +1,82 @@
+@{
+    ViewData["Title"] = "Campus Highlights";
+
+    var slides = new[]
+    {
+        new { Img = "resized_image_1.jpg", Title = "Hoeschler Tower", Desc = "Iconic UW-La Crosse landmark with rich traditions." },
+        new { Img = "resized_image_2.jpg", Title = "UWL", Desc = "Public university known for strong academics and research." },
+        new { Img = "resized_image_3.jpg", Title = "UWL Athletics", Desc = "Home football games at Roger Harring Stadium." },
+        new { Img = "resized_image_4.jpg", Title = "Grandad Bluff", Desc = "Scenic overlook of three states from La Crosse." },
+        new { Img = "resized_image_5.jpg", Title = "Cowley Hall", Desc = "Home to Computer Science and Engineering at UWL." },
+        new { Img = "resized_image_6.jpg", Title = "Admissions Office", Desc = "Guides students through the admission process." },
+        new { Img = "resized_image_7.jpg", Title = "Eagle Hall", Desc = "Suite-style residence hall housing 700+ students." },
+        new { Img = "resized_image_8.jpg", Title = "Snowy Winters", Desc = "Campus transformed by snowy landscapes." }
+    };
+}
+
+<h2 class="text-center mb-5 fw-bold">Campus Highlights</h2>
+
+<div class="rounded-4 overflow-hidden bg-white p-4" style="box-shadow: 0 0 35px rgba(0, 0, 0, 0.6);">
+    <div id="thumbCarousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="false">
+        <div class="carousel-inner">
+            @for (int i = 0; i < slides.Length; i += 4)
+            {
+                <div class="carousel-item @(i == 0 ? "active" : "")">
+                    <div class="row row-cols-1 row-cols-md-4 g-4 justify-content-center">
+                        @for (int j = i; j < i + 4; j++)
+                        {
+                            if (j < slides.Length)
+                            {
+                                var slide = slides[j];
+                                <div class="col d-flex">
+                                    <div class="card shadow-sm border-0 w-100 h-100">
+                                        <img src="~/images/@slide.Img"
+                                             class="card-img-top"
+                                             style="height: 200px; object-fit: cover;"
+                                             alt="@slide.Title" />
+
+                                        <div class="card-body d-flex flex-column">
+                                            <h5 class="card-title fw-semibold">@slide.Title</h5>
+                                            <p class="card-text text-muted flex-grow-1">@slide.Desc</p>
+                                            <a href="https://www.uwlax.edu"
+                                               target="_blank"
+                                               class="btn btn-outline-primary mt-3">
+                                                Learn More
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            }
+                            else
+                            {
+                                <div class="col d-flex"></div>
+                            }
+                        }
+                    </div>
+                </div>
+            }
+        </div>
+
+        <button class="carousel-control-prev"
+                type="button"
+                data-bs-target="#thumbCarousel"
+                data-bs-slide="prev"
+                style="width: 60px;">
+            <span class="carousel-control-prev-icon bg-dark rounded-circle p-3 shadow"
+                  style="filter: drop-shadow(0 0 2px black);"
+                  aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+
+        <button class="carousel-control-next"
+                type="button"
+                data-bs-target="#thumbCarousel"
+                data-bs-slide="next"
+                style="width: 60px;">
+            <span class="carousel-control-next-icon bg-dark rounded-circle p-3 shadow"
+                  style="filter: drop-shadow(0 0 2px black);"
+                  aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+</div>
