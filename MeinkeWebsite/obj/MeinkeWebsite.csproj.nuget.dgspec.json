@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jalen\\OneDrive - Western Wisconsin Technical College\\Desktop\\Kehren Development\\MeinkeWebsite\\MeinkeWebsite.csproj": {}
+    "C:\\Users\\jalen\\OneDrive - University of Wisconsin-La Crosse\\Desktop\\Kehren Development\\MeinkeWebsite\\MeinkeWebsite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jalen\\OneDrive - Western Wisconsin Technical College\\Desktop\\Kehren Development\\MeinkeWebsite\\MeinkeWebsite.csproj": {
+    "C:\\Users\\jalen\\OneDrive - University of Wisconsin-La Crosse\\Desktop\\Kehren Development\\MeinkeWebsite\\MeinkeWebsite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jalen\\OneDrive - Western Wisconsin Technical College\\Desktop\\Kehren Development\\MeinkeWebsite\\MeinkeWebsite.csproj",
+        "projectUniqueName": "C:\\Users\\jalen\\OneDrive - University of Wisconsin-La Crosse\\Desktop\\Kehren Development\\MeinkeWebsite\\MeinkeWebsite.csproj",
         "projectName": "MeinkeWebsite",
-        "projectPath": "C:\\Users\\jalen\\OneDrive - Western Wisconsin Technical College\\Desktop\\Kehren Development\\MeinkeWebsite\\MeinkeWebsite.csproj",
+        "projectPath": "C:\\Users\\jalen\\OneDrive - University of Wisconsin-La Crosse\\Desktop\\Kehren Development\\MeinkeWebsite\\MeinkeWebsite.csproj",
         "packagesPath": "C:\\Users\\jalen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jalen\\OneDrive - Western Wisconsin Technical College\\Desktop\\Kehren Development\\MeinkeWebsite\\obj\\",
+        "outputPath": "C:\\Users\\jalen\\OneDrive - University of Wisconsin-La Crosse\\Desktop\\Kehren Development\\MeinkeWebsite\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jalen\\AppData\\Roaming\\NuGet\\NuGet.Config"
